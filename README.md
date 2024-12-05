@@ -1,29 +1,35 @@
-<!-- 1. GitHub usernameを変更 -->
+<!-- プロフィールビュー -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=02tYasui" />
+  <img src="https://komarev.com/ghpvc/?username=02tyasui" alt="Profile views"/>
 </div>
 
-
-<!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I'm a backend engineer.
-- 🌱 I’m currently learning LLM/AI!
-<br>
+- 🧑‍💻 Backend Engineer passionate about LLM/AI
+- 🚀 Exploring cutting-edge technologies
+- 📦 Open Source Contributor
 
+## 🛠️ Skills & Technologies
 
-<!-- 3. 好きな技術スタックに変更 -->
-<!-- ライトモート：theme=light, ダークモート：theme=dark -->
-<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,jquery,react,php,python,laravel,fastapi,docker,git,github,aws,postgres,postman,vscode" />
-<br>
+<img alt="Tech Stack" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,jquery,react,php,python,laravel,fastapi,docker,git,github,aws,postgres,postman,vscode" />
 
+## 🔧 Projects
 
-<!-- 4. GitHub usernameを変更, 2箇所 -->
-<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🏃‍♀️ Activities
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=02tyasui&show_icons=true&bg_color=00000000)
+### markdown-to-mrkdwn
+[![PyPI Version](https://img.shields.io/pypi/v/markdown-to-mrkdwn.svg?style=flat-square&logo=python&logoColor=white)](https://pypi.org/project/markdown-to-mrkdwn/)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/02tyasui/markdown_to_mrkdwn)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=02tyasui&langs_count=8)
+Markdown to Slack mrkdwn conversion library
 
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=02tyasui&langs_count=8)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=02tyasui&show_icons=true&bg_color=00000000)
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/2b3894266)
+[![Qiita](https://img.shields.io/badge/Qiita-green?style=flat-square&logo=qiita)](https://qiita.com/frei_aqua)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/frei_aqua)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=x)](https://x.com/aqua_moto)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yasutai12+github@gmail.com)
