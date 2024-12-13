@@ -28,7 +28,7 @@ Markdown to Slack mrkdwn conversion library
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/2b3894266)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/2b3894266)
 [![Qiita](https://img.shields.io/badge/Qiita-green?style=flat-square&logo=qiita)](https://qiita.com/frei_aqua)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/frei_aqua)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=x)](https://x.com/aqua_moto)
