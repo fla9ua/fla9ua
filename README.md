@@ -11,7 +11,7 @@
 
 ## 🛠️ Skills & Technologies
 
-<img alt="Tech Stack" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,jquery,react,php,python,laravel,fastapi,docker,git,github,aws,postgres,postman,vscode" />
+<img alt="Tech Stack" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,jquery,react,php,python,laravel,fastapi,docker,git,github,aws,azure,postgres,postman,vscode,windows,linux" />
 
 ## 🔧 Projects
 
