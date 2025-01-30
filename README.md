@@ -31,6 +31,6 @@ Markdown to Slack mrkdwn conversion library
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/2b3894266)
 [![Qiita](https://img.shields.io/badge/Qiita-green?style=flat-square&logo=qiita)](https://qiita.com/frei_aqua)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/frei_aqua)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/fla9ua)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=x)](https://x.com/aqua_moto)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yasutai12+github@gmail.com)
