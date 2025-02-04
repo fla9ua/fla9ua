@@ -17,8 +17,9 @@
 
 ### markdown-to-mrkdwn
 [![PyPI Version](https://img.shields.io/pypi/v/markdown-to-mrkdwn.svg?style=flat-square&logo=python&logoColor=white)](https://pypi.org/project/markdown-to-mrkdwn/)
+[![PyPI Downloads](https://static.pepy.tech/badge/markdown-to-mrkdwn)](https://pepy.tech/projects/markdown-to-mrkdwn)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/02tyasui/markdown_to_mrkdwn)
-[![PyPI Downloads](https://static.pepy.tech/badge/markdown-to-mrkdwn)](https://pepy.tech/projects/markdown-to-mrkdwn)  
+[![GitHub Stars](https://img.shields.io/github/stars/02tyasui/markdown_to_mrkdwn?style=social)](https://github.com/02tyasui/markdown_to_mrkdwn)  
 
 Markdown to Slack mrkdwn conversion library
 
