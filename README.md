@@ -25,8 +25,8 @@ Markdown to Slack mrkdwn conversion library
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=02tyasui&langs_count=8)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=02tyasui&show_icons=true&bg_color=00000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fla9ua&langs_count=4)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fla9ua&show_icons=true&bg_color=00000000)
 
 ## 🌐 Connect
 
