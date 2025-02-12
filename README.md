@@ -1,6 +1,6 @@
 <!-- プロフィールビュー -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=02tyasui" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=fla9ua" alt="Profile views"/>
 </div>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
@@ -35,3 +35,4 @@ Markdown to Slack mrkdwn conversion library
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/fla9ua)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=x)](https://x.com/fla9ua)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fla9ua+github@gmail.com)
+![](https://hit.yhype.me/github/profile?account_id=59411823)
