@@ -11,6 +11,8 @@
 
 ## 🛠️ Skills & Technologies
 
+My Resume is here👉 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/fla9ua/resume)
+
 <img alt="Tech Stack" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,jquery,react,php,python,laravel,fastapi,docker,git,github,aws,azure,postgres,postman,vscode,windows,linux" />
 
 ## 🔧 Projects
