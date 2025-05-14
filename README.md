@@ -18,12 +18,16 @@ My Resume is here👉 [![GitHub Repository](https://img.shields.io/badge/GitHub-
 ## 🔧 Projects
 
 ### markdown-to-mrkdwn
+Markdown to Slack mrkdwn conversion library  
 [![PyPI Version](https://img.shields.io/pypi/v/markdown-to-mrkdwn.svg?style=flat-square&logo=python&logoColor=white)](https://pypi.org/project/markdown-to-mrkdwn/)
 [![PyPI Downloads](https://static.pepy.tech/badge/markdown-to-mrkdwn)](https://pepy.tech/projects/markdown-to-mrkdwn)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/02tyasui/markdown_to_mrkdwn)
-[![GitHub Stars](https://img.shields.io/github/stars/02tyasui/markdown_to_mrkdwn?style=social)](https://github.com/02tyasui/markdown_to_mrkdwn)  
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/fla9ua/markdown_to_mrkdwn)
+[![GitHub Stars](https://img.shields.io/github/stars/fla9ua/markdown_to_mrkdwn?style=social)](https://github.com/fla9ua/markdown_to_mrkdwn)  
 
-Markdown to Slack mrkdwn conversion library
+### vscode-yaml-preview-ui
+VSCode extension for YAML visualization and editing  
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/fla9ua/vscode-yaml-preview-ui)
+[![GitHub Stars](https://img.shields.io/github/stars/fla9ua/vscode-yaml-preview-ui?style=social)](https://github.com/fla9ua/vscode-yaml-preview-ui)  
 
 ## 📊 GitHub Stats
 
