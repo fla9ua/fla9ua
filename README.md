@@ -11,7 +11,7 @@
 
 ## Project
 ### Address to Zip(For Japan use)
-https://addresstozip.jp/
+https://addresstozip.jp
 
 ## 🔧 OSS
 
